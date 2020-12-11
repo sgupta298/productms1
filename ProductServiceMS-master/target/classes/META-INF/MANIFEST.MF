@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Sanjay Gupta
+Build-Jdk: 11.0.9
+Implementation-Title: productService
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: productService
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/productService
+Created-By: Maven Integration for Eclipse
+
